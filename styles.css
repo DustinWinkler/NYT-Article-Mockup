@@ -1,6 +1,14 @@
 .body {
   margin: auto;
+  
+}
+
+.franklin {
   font-family: nyt-franklin, helvetica, arial, sans-serif;
+}
+
+.georgia {
+  font-family: nyt-imperial,georgia,'times new roman',times,serif;
 }
 
 /* Top Navbar */
@@ -54,7 +62,6 @@
   background-color: #567b95;
   padding: 8px 12px 8px 12px;
   border-radius: 3px;
-  font-family: arial;
   position: relative;
   bottom: 2px;
 }
@@ -181,7 +188,6 @@
 .sign-up-bold {
   font-weight: 900;
   font-size: 12px;
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
   letter-spacing: 0.5px;
 }
 
@@ -221,7 +227,6 @@
 }
 
 .aside-container{
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
   font-size: 13px;
   color: black;
   flex: 0 0 200px;
