@@ -514,8 +514,9 @@
 }
 
 .suggested-article figcaption {
-  font-size: 9px;
-  margin: 8px 0;
+  font-family: nyt-cheltenham-small, georgia, "times new roman";
+  font-size: 11px;
+  margin: 6px 0;
   text-align: right;
 }
 
