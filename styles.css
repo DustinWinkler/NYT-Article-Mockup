@@ -281,6 +281,7 @@
 }
 
 .aside-editor h2 {
+  font-size: 12px;
   font-weight: 900;
   margin-bottom: 15px;
   padding-bottom: 15px;
@@ -297,7 +298,7 @@
 .editor-article {
   text-align: left;
   display: flex;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   line-height: 1.1;
   color: rgb(63, 62, 62);
   font-family: nyt-cheltenham-small, georgia, "times new roman";
@@ -306,6 +307,7 @@
 }
 
 .editor-article div {
+  width: 150px;
   align-self: center;
 }
 .editor-article div:hover {
